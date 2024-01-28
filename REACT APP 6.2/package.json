@@ -1,0 +1,32 @@
+{
+  "name": "namaste-react-2024",
+  "version": "1.0.0",
+  "description": "This is the first react app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupendra/ReactJS.git"
+  },
+  "author": "Rupendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupendra/ReactJS/issues"
+  },
+  "homepage": "https://github.com/rupendra/ReactJS#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 chrome version",
+    "last 2 Firefox version"
+  ]
+}
